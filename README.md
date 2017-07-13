@@ -1,3 +1,7 @@
+## Belajar-ES2015
+
+forked from <a href="https://github.com/babel/babel.github.io/blob/master/learn-es2015.md">ES-2015</a>
+
 ---
 layout: docs
 title: Learn ES2015
